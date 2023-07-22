@@ -12,7 +12,7 @@
     <a href="https://github.com/Mufyyy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://steamcommunity.com/profiles/76561199132240026/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/7lm0qx2zd7tghjop7ykux4koc?si=56ba3e2c4360466b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://discord.gg/kXd2mQgjsN" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
+<a href="https://discord.gg/kXd2mQgjsN" target"blank_"><img src="https://shields.io/discord/997450398627541102?style=for-the-badge&color=7289da&label=Mufyyy&logo=java.js&logoColor=white"></a>
 <br>
 <img src="https://count.getloli.com/get/@Mufyyy?theme=moebooru" alt="Mufyyy" />
 </p>
